@@ -1,0 +1,379 @@
+{
+    "code": 200,
+    "currentTemplate": "UserShow",
+    "currentData": {
+        "user": {
+            "registerTime": 1362104312,
+            "introduction": " ![](https://cdn.luogu.com.cn/upload/pic/4.png) \r\n\r\n",
+            "prize": [],
+            "elo": null,
+            "followingCount": 0,
+            "followerCount": 1170,
+            "ranking": 61354,
+            "eloValue": null,
+            "blogAddress": "https://www.luogu.com.cn/blog/user2/",
+            "userRelationship": 0,
+            "reverseUserRelationship": 0,
+            "passedProblemCount": 40,
+            "submittedProblemCount": 70,
+            "uid": 2,
+            "name": "lzn",
+            "slogan": "",
+            "badge": null,
+            "isAdmin": false,
+            "isBanned": false,
+            "color": "Blue",
+            "ccfLevel": 0,
+            "background": ""
+        },
+        "eloMax": null,
+        "passedProblems": [
+            {
+                "pid": "P1001",
+                "title": "A+B Problem",
+                "difficulty": 1,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1002",
+                "title": "[NOIP2002 \u666e\u53ca\u7ec4] \u8fc7\u6cb3\u5352",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1004",
+                "title": "[NOIP2000 \u63d0\u9ad8\u7ec4] \u65b9\u683c\u53d6\u6570",
+                "difficulty": 4,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1005",
+                "title": "[NOIP2007 \u63d0\u9ad8\u7ec4] \u77e9\u9635\u53d6\u6570\u6e38\u620f",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1006",
+                "title": "[NOIP2008 \u63d0\u9ad8\u7ec4] \u4f20\u7eb8\u6761",
+                "difficulty": 4,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1007",
+                "title": "\u72ec\u6728\u6865",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1008",
+                "title": "[NOIP1998 \u666e\u53ca\u7ec4] \u4e09\u8fde\u51fb",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1009",
+                "title": "[NOIP1998 \u666e\u53ca\u7ec4] \u9636\u4e58\u4e4b\u548c",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1010",
+                "title": "[NOIP1998 \u666e\u53ca\u7ec4] \u5e42\u6b21\u65b9",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1012",
+                "title": "[NOIP1998 \u63d0\u9ad8\u7ec4] \u62fc\u6570",
+                "difficulty": 2,
+                "fullScore": 200,
+                "type": "P"
+            },
+            {
+                "pid": "P1014",
+                "title": "[NOIP1999 \u666e\u53ca\u7ec4] Cantor \u8868",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1017",
+                "title": "[NOIP2000 \u63d0\u9ad8\u7ec4] \u8fdb\u5236\u8f6c\u6362",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1018",
+                "title": "[NOIP2000 \u63d0\u9ad8\u7ec4] \u4e58\u79ef\u6700\u5927",
+                "difficulty": 4,
+                "fullScore": 200,
+                "type": "P"
+            },
+            {
+                "pid": "P1019",
+                "title": "[NOIP2000 \u63d0\u9ad8\u7ec4] \u5355\u8bcd\u63a5\u9f99",
+                "difficulty": 3,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1022",
+                "title": "[NOIP2000 \u666e\u53ca\u7ec4] \u8ba1\u7b97\u5668\u7684\u6539\u826f",
+                "difficulty": 3,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1023",
+                "title": "[NOIP2000 \u666e\u53ca\u7ec4] \u7a0e\u6536\u4e0e\u8865\u8d34\u95ee\u9898",
+                "difficulty": 3,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1028",
+                "title": "[NOIP2001 \u666e\u53ca\u7ec4] \u6570\u7684\u8ba1\u7b97",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1035",
+                "title": "[NOIP2002 \u666e\u53ca\u7ec4] \u7ea7\u6570\u6c42\u548c",
+                "difficulty": 1,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1038",
+                "title": "[NOIP2003 \u63d0\u9ad8\u7ec4] \u795e\u7ecf\u7f51\u7edc",
+                "difficulty": 4,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1039",
+                "title": "[NOIP2003 \u63d0\u9ad8\u7ec4] \u4fa6\u63a2\u63a8\u7406",
+                "difficulty": 5,
+                "fullScore": 200,
+                "type": "P"
+            },
+            {
+                "pid": "P1040",
+                "title": "[NOIP2003 \u63d0\u9ad8\u7ec4] \u52a0\u5206\u4e8c\u53c9\u6811",
+                "difficulty": 4,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1134",
+                "title": "[USACO3.2] \u9636\u4e58\u95ee\u9898",
+                "difficulty": 3,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1139",
+                "title": "\u5355\u5411\u53cc\u8f68\u9053",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1156",
+                "title": "\u5783\u573e\u9677\u9631",
+                "difficulty": 4,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1200",
+                "title": "[USACO1.1] \u4f60\u7684\u98de\u789f\u5728\u8fd9\u513f Your Ride Is Here",
+                "difficulty": 1,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1223",
+                "title": "\u6392\u961f\u63a5\u6c34",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1226",
+                "title": "\u3010\u6a21\u677f\u3011\u5feb\u901f\u5e42 | \u53d6\u4f59\u8fd0\u7b97",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1247",
+                "title": "\u53d6\u706b\u67f4\u6e38\u620f",
+                "difficulty": 4,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1250",
+                "title": "\u79cd\u6811",
+                "difficulty": 3,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1251",
+                "title": "\u9910\u5dfe\u8ba1\u5212\u95ee\u9898",
+                "difficulty": 6,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1258",
+                "title": "\u5c0f\u8f66\u95ee\u9898",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1268",
+                "title": "\u6811\u7684\u91cd\u91cf",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1357",
+                "title": "\u82b1\u56ed",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1372",
+                "title": "\u53c8\u662f\u6bd5\u4e1a\u5b63I",
+                "difficulty": 2,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1373",
+                "title": "\u5c0f a \u548c uim \u4e4b\u5927\u9003\u79bb",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1414",
+                "title": "\u53c8\u662f\u6bd5\u4e1a\u5b63II",
+                "difficulty": 3,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1415",
+                "title": "\u62c6\u5206\u6570\u5217",
+                "difficulty": 6,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1865",
+                "title": "A % B Problem",
+                "difficulty": 3,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P2113",
+                "title": "\u770b\u7403\u6ce1\u59b9\u5b50",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            },
+            {
+                "pid": "P1370",
+                "title": "Charlie\u7684\u4e91\u7b14\u8bb0\u5e8f\u5217",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            }
+        ],
+        "submittedProblems": [
+            {
+                "pid": "P1804",
+                "title": "\u3010\u4fdd\u7559\u9898\u76ee\u3011",
+                "difficulty": 5,
+                "fullScore": 100,
+                "type": "P"
+            }
+        ]
+    },
+    "currentTitle": "\u4e2a\u4eba\u4e2d\u5fc3",
+    "currentTheme": {
+        "id": 1,
+        "header": {
+            "imagePath": null,
+            "color": [
+                [35, 37, 38, 1],
+                [65, 67, 69, 1]
+            ],
+            "blur": 0,
+            "brightness": 0,
+            "degree": 90,
+            "repeat": 0,
+            "position": [50, 50],
+            "size": [0, 0],
+            "type": 2,
+            "__CLASS_NAME": "Luogu\\DataClass\\User\\ThemeConfig\\HeaderFooterConfig"
+        },
+        "sideNav": {
+            "logoBackgroundColor": [52, 152, 219, 1],
+            "color": [52, 73, 94, 1],
+            "invertColor": false,
+            "__CLASS_NAME": "Luogu\\DataClass\\User\\ThemeConfig\\SideNavConfig"
+        },
+        "footer": {
+            "imagePath": null,
+            "color": [[51, 51, 51, 1]],
+            "blur": 0,
+            "brightness": 0,
+            "degree": 0,
+            "repeat": 0,
+            "position": [0, 0],
+            "size": [0, 0],
+            "type": 2,
+            "__CLASS_NAME": "Luogu\\DataClass\\User\\ThemeConfig\\HeaderFooterConfig"
+        }
+    },
+    "currentTime": 1689585564,
+    "currentUser": {
+        "followingCount": 0,
+        "followerCount": 0,
+        "ranking": 68813,
+        "eloValue": null,
+        "blogAddress": null,
+        "unreadMessageCount": 0,
+        "unreadNoticeCount": 0,
+        "uid": 61734,
+        "name": "H4yn3s",
+        "slogan": "",
+        "badge": null,
+        "isAdmin": false,
+        "isBanned": false,
+        "color": "Blue",
+        "ccfLevel": 0,
+        "background": "",
+        "verified": true
+    }
+}
